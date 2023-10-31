@@ -29,7 +29,7 @@ public class SQL_connection {
             c.close();
             System.out.println("Connection closed.");
         } catch (SQLException ex) {
-            System.out.println("Error while closing connection: " + ex);;
+            System.out.println("Error while closing connection: " + ex);
         }
 
     }
