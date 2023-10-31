@@ -1,4 +1,9 @@
 package view;
 
-public class CrudFrame {
+
+import javax.swing.*;
+
+
+public class CrudFrame extends JFrame {
+
 }

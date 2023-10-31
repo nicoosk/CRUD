@@ -28,3 +28,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/src/Principal/Principal.java
+/src/Principal/
